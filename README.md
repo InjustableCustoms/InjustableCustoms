@@ -48,8 +48,10 @@ Javascript is the one that I first started working with on the Qbcore. Later I s
 Discord: https://discord.com/users/342967225940049922
 
 # Past work
+
 https://www.behance.net/gallery/158093897/Development-Portfolio
 
+# Current Servers I dev for 
 
 Kangaroo Roleplay: (FiveM): https://discord.gg/NuGKFj9hDg
 
