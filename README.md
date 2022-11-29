@@ -16,8 +16,6 @@
 -- American Truck Simulator 
 -- Euro Truck Simulator
 -- Minecraft
-- I currently own a store in Rotterdam!
--- I specialize in tabacco industry
 ```
 <!-- Main About Me -->
 
