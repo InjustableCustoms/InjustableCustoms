@@ -49,13 +49,11 @@ Discord: https://discord.com/users/342967225940049922
 
 https://www.behance.net/gallery/158093897/Development-Portfolio
 
-# Current Servers I dev for 
+# Development Server
 
-Kangaroo Roleplay: (FiveM): https://discord.gg/NuGKFj9hDg
 
 Injustable Customs. (Inactive): https://discord.gg/J4nDPBxE
 
-OffShore Roleplay: (Fivem): https://discord.gg/H9fZbCWj
 
 <!-- Contact Me -->
 
