@@ -57,6 +57,6 @@ Injustable Customs. (Inactive): https://discord.gg/J4nDPBxE
 
 <!-- Latest Stats -->
 # My github profile stats
-[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?ethany6=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethan6&count_private=true)
 
-[![Ethan Y Custom's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethan6&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethan6&show_icons=true&theme=transparent)
