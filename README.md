@@ -9,7 +9,7 @@
 <!-- Main About Me -->
 # About me!
 ```
-- I am a 18! 
+- I am a 19! 
 - My name is Ethan but my fivem development goes by Injustable Customs
 - I love coding on discord / FiveM
 - I like to play the games listed below!
