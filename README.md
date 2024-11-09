@@ -36,7 +36,7 @@ My prefered editor for code is `Visual Studio Code`
 Javascript is the one that I first started working with on the Qbcore. Later I started working with LUA for FiveM and using databses. I know a bit about SQL but can find my way around it if asked to. On other note I do like hedisql since I'm kinda a newbe to databases in my projects that involve massive settings etc.
 
 ### Languages That I Know And Software I Use
-<img src="https://skillicons.dev/icons?i=cs,nodejs,py,html,js,css,lua,mysql" />
+<img src="https://skillicons.dev/icons?i=c++,nodejs,py,html,js,css,lua,mysql" />
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,discord,ps,windows,github" />
 <!-- Languages / Tools -->
 
