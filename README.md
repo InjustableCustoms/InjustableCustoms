@@ -37,7 +37,7 @@ Javascript is the one that I first started working with on the Qbcore. Later I s
 
 ### Languages That I Know And Software I Use
 <img src="https://skillicons.dev/icons?i=nodejs,py,html,js,css,lua,mysql" />
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,discord,ps,windows,github" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,discord,ps,windows,github" />
 <!-- Languages / Tools -->
 
 <!-- Contact Me -->
